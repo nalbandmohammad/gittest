@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0E60-D86C
+
+ Directory of C:\Users\noor pinnadhari\Desktop\GitProject
+
+07-01-2019  08:39    <DIR>          .
+07-01-2019  08:39    <DIR>          ..
+07-01-2019  08:19                 8 gittest.txt
+07-01-2019  07:48               406 index.html
+07-01-2019  08:39                69 test2.txt
+               3 File(s)            483 bytes
+               2 Dir(s)  153,902,727,168 bytes free
